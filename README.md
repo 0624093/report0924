@@ -9,7 +9,7 @@
     2.客戶確認之後即無法更改訂單樣式及數量
     3.每15分鐘更新訂單資訊
 
-![costomer](99999.jpg "usecasediagram")
+![costomer](1333.jpg "usecasediagram")
 ### 使用案例的重要性
     1.客戶填寫訂單
     2.管理者確認訂單
